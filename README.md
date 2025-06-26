@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🌏 Originally from **India**, now based in **Los Angeles, USA**
 - 💻 Passionate about building scalable web applications and distributed systems
 - 🛠️ Always eager to learn new technologies and frameworks
 
