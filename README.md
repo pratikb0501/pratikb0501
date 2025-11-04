@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Bagmare</h1>
-<h3 align="center">A Full Stack Developer from India, currently living in Los Angeles, USA</h3>
+<h3 align="center">A Full Stack Developer from India, currently living in Silicon Valley, USA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikbagmare&label=Profile%20views&color=0e75b6&style=flat" alt="pratikbagmare" />
